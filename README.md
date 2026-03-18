@@ -21,4 +21,4 @@ A fully functional Flappy Bird clone built in Python using the CMU Graphics libr
 - Click ??? on the game over screen to switch themes
 
 ## About
-Built independently during sophomore year of high school as a self-taught Python project.# Flappy-Bird-python
+Built independently as a self-taught Python project.# Flappy-Bird-python
